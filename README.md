@@ -1,2 +1,2 @@
-# testimonial_bank
+# Testimonial bank
 Collection of feedback received from Atri users
